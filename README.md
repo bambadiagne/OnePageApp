@@ -1,3 +1,6 @@
+
+<br>Ceci est une petite application créée avec **Angular** etant une SPA(Single Page Application) 
+
 # OnePageApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
